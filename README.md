@@ -11,7 +11,7 @@ Prilikom izbora teme nisam se pretjerano dvoumio i izabrao sam upravo Amazon Red
 💻Kako je počela priprema za projekt?
 
 Prvotni fokus bio je na izradi skladišta podataka. U suradnji s predavačem izrađeno je skladište podataka priloženo u .sql datoteci, gdje su podaci preuzeti iz .zip datoteke (koja sadrži pripadajuće tablice relacijske baze podataka za olimpijske igre). Vizualni prikaz skladišta može se vidjeti na slici ispod (slika je također priložena u Git repozitoriju).
-![vizualizacija skladišta podataka](prikaz dw.png)
+![vizualizacija skladišta podataka](prikaz_dw.png)
 
 
 📖Proučavanje AWS usluge Redshift.
