@@ -6,7 +6,7 @@ U .pdf datoteci može se pronaći kratak opis za ovaj projekt.
 ## Moj komentar na projekt i kako je sve počelo
 *Zašto baš ova tema?*
 
-Prilikom izbora teme nisam se pretjerano dvoumio i izabrao sam upravo Amazon Redshift jer mi je djelovao najintuitivnije što se tiče sintakse. Nije nužno striktno koristiti Amazonovu sintaksu u njihovom editoru, već se može pisati i kroz SQL standard kao u PostgreSQLu. Sam koncept arhitekture i mogućnosti koje nudi ova AWS usluga činio mi se izuzetno zanimljivim za istraživanje, a tema odličnom za dubinsko proučavanje i izradu kvalitetnog projektnog rada, koji je na kraju i maksimalno bodovan.
+Prilikom izbora teme nisam se pretjerano dvoumio i izabrao sam upravo Amazon Redshift jer mi je djelovao najintuitivnije što se tiče sintakse. Nije nužno striktno koristiti Amazonovu sintaksu u njihovom editoru, već se može pisati i kroz SQL standard kao u PostgreSQLu. Također, koncept arhitekture i mogućnosti koje nudi ova AWS usluga činio mi se izuzetno zanimljivim za istraživanje, a tema odličnom za dubinsko proučavanje i izradu kvalitetnog projektnog rada, koji je na kraju i maksimalno bodovan.
 
 💻Kako je počela priprema za projekt?
 
